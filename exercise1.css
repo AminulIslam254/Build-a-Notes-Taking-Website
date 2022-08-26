@@ -1,0 +1,28 @@
+#srchbar1{
+    position: relative;
+    left: 1050px;
+}
+#smtbar{
+    position: relative;
+    left: 1061px;;
+}
+#newdiv{
+    min-height: 200px;
+    min-width: 500px;
+    border: 2px solid black;
+    width: fit-content;
+    height: fit-content;
+
+}
+#txtarea{
+    height: 160px;
+    width: 489px;
+    resize: both;
+    margin: 5px;
+}
+#containment{
+    display: flex;
+    flex-wrap: wrap;
+    max-width: 100%;
+    height: fit-content;
+}
